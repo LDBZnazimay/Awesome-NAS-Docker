@@ -23,6 +23,16 @@ NAS圈大佬：可爱的小Cherry（二冰的nas引路人，大家多多关注�
 
 ## 项目分类
 
+## 置顶
+
+好兄弟完全按照我的需求开发的两个项目，已经在用了，很好用，推荐，有啥需求可以直接跟他提，让他给优化
+
+| 项目标题  | 项目简介           | 项目地址                                         | 教程                                                         | star                                                         | 最近更新                                                     |
+| --------- | ------------------ | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NotionNav | 基于notion的导航站 | [点我查看](https://github.com/qazzxxx/NotionNav) | [查看教程](https://blog.qazz.site/docker/21a69253-5678-8042-b6eb-ed1b87c4c7e0) | ![Star](https://img.shields.io/github/stars/qazzxxx/NotionNav?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/qazzxxx/NotionNav?label) |
+| cloudimgs | Docker部署的图床   | [点我查看](https://github.com/qazzxxx/cloudimgs) | [查看教程](https://blog.qazz.site/docker/22869253-5678-80b8-8c68-ea7a86a73889) | ![Star](https://img.shields.io/github/stars/qazzxxx/cloudimgs?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/qazzxxx/cloudimgs?label) |
+
+
 ### 1、AI应用生态
 
 #### 1.1 数据处理支持
