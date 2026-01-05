@@ -21,6 +21,21 @@ NAS圈大佬：可爱的小Cherry（二冰的nas引路人，大家多多关注�
 
 ![](https://pic.fengsutb.com/pic/2025-04-18_10-01-05.png)
 
+PS:最近在研究n8n，n8n真牛逼，目前n8n已实战落地的项目↓↓↓
+
+[https://ai.feishu.cn/docx/Crzfdb5shoYN0DxYPSxc21CNnyh?from=from_copylink](https://ai.feishu.cn/docx/Crzfdb5shoYN0DxYPSxc21CNnyh?from=from_copylink)
+
+![](https://pic.fengsutb.com/pic/2615105922.png)
+
+后续目标，研究docker优秀项目和n8n的结合落地，感兴趣的兄弟可以一起研究哈
+
+## 最近更新
+
+| 项目标题        | 项目简介             | 项目地址                                                 | 教程                                                         | star                                                         | 最近更新                                                     |
+| --------------- | -------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| XHS-Downloader  | 无水印下载小红书笔记 | [点我查看](https://github.com/JoeanAmier/XHS-Downloader) | [查看教程](https://zhuanlan.zhihu.com/p/1990887663998359245) | ![Star](https://img.shields.io/github/stars/JoeanAmier/XHS-Downloader?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/JoeanAmier/XHS-Downloader?label) |
+| xiaohongshu-mcp | 多功能小红书工具     | [点我查看](https://github.com/xpzouying/xiaohongshu-mcp) | [查看教程](https://zhuanlan.zhihu.com/p/1987675030000260600) | ![Star](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/xpzouying/xiaohongshu-mcp?label) |
+
 ## 项目分类
 
 ## 置顶
